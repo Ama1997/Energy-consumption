@@ -5,13 +5,13 @@ This repository contains the analysis and visualizations of energy consumption p
 ## Key Findings
 
 ### 1. Pairplot Analysis
+![Pairplot Analysis](output_0_1.png)
 - **Square Footage vs Energy Consumption**: Larger buildings tend to consume more energy, but the relationship is not strictly linear. Some smaller buildings also show high energy consumption, possibly due to factors like occupancy or appliance usage.
 - **Number of Occupants vs Energy Consumption**: Higher occupancy correlates with increased energy consumption.
 - **Appliances Used vs Energy Consumption**: Buildings with more appliances consume more energy.
 - **Average Temperature vs Energy Consumption**: Energy consumption increases in extreme temperatures (both high and low).
 - **Day of the Week**: Energy consumption varies slightly between weekdays and weekends, with weekends showing slightly higher consumption.
 
-!(output_0_1.png)
 
 ### 2. Boxplot: Energy Consumption by Day of the Week
 - **Weekdays vs Weekends**: Energy consumption is slightly higher on weekends, likely due to increased occupancy and appliance usage.
