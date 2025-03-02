@@ -4,7 +4,8 @@ This repository contains the analysis and visualizations of energy consumption p
 
 ## Key Findings
 
-### 1. Pairplot Analysis
+### 1. Pairplot Analysis.
+The pairplot below shows the relationships between energy consumption and various factors such as square footage, number of occupants, appliances used, and average temperature.
 ![Pairplot Analysis](output_0_1.png)
 - **Square Footage vs Energy Consumption**: Larger buildings tend to consume more energy, but the relationship is not strictly linear. Some smaller buildings also show high energy consumption, possibly due to factors like occupancy or appliance usage.
 - **Number of Occupants vs Energy Consumption**: Higher occupancy correlates with increased energy consumption.
