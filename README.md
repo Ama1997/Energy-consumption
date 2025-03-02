@@ -11,14 +11,20 @@ This repository contains the analysis and visualizations of energy consumption p
 - **Average Temperature vs Energy Consumption**: Energy consumption increases in extreme temperatures (both high and low).
 - **Day of the Week**: Energy consumption varies slightly between weekdays and weekends, with weekends showing slightly higher consumption.
 
+!(output_0_1.png)
+
 ### 2. Boxplot: Energy Consumption by Day of the Week
 - **Weekdays vs Weekends**: Energy consumption is slightly higher on weekends, likely due to increased occupancy and appliance usage.
 - **Variability**: Weekdays show more consistent energy consumption, while weekends have a wider range of usage patterns.
+  
+  ![Energy Consumption by Day of the Week](output_0_3.png)
 
 ### 3. Scatterplot: Energy Consumption vs Square Footage
 - **Square Footage Impact**: Larger buildings generally consume more energy, but there are outliers where smaller buildings consume disproportionately high energy.
 - **Number of Occupants**: Buildings with more occupants tend to consume more energy.
 - **Appliances Used**: Buildings with more appliances consume more energy, even if the square footage is smaller.
+
+![Energy Consumption vs Square Footage](output_0_4.png)
 
 ### 4. Heatmap: Correlation Between Variables
 - **Square Footage and Energy Consumption**: Moderate positive correlation.
@@ -26,10 +32,14 @@ This repository contains the analysis and visualizations of energy consumption p
 - **Appliances Used and Energy Consumption**: Strong positive correlation.
 - **Average Temperature**: Weaker correlation with energy consumption.
 - **Day of the Week**: No significant correlation with energy consumption.
+  
+![Correlation Heatmap](output_0_5.png)
 
 ### 5. Barplot: Average Energy Consumption by Day of the Week
 - **Weekend Consumption**: Slightly higher average energy consumption on weekends.
 - **Weekday Consumption**: Lower and more consistent, likely due to predictable routines.
+
+  ![Average Energy Consumption by Day of the Week](output_0_7.png)
 
 ## Insights and Recommendations
 1. **Energy Efficiency in Larger Buildings**: Potential for energy savings through efficient HVAC systems, insulation, and smart energy management.
