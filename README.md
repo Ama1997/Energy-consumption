@@ -57,6 +57,8 @@ The analysis reveals that energy consumption in residential buildings is influen
 - Explore the impact of specific appliances on energy consumption.
 - Investigate the potential for renewable energy integration (e.g., solar panels) to reduce reliance on grid energy.
 - Develop targeted energy-saving programs for residents, focusing on appliance usage and temperature control.
+  
+This report provides a foundation for understanding residential energy consumption patterns and offers actionable insights for improving energy efficiency. Further analysis and data collection can enhance these findings and support more targeted energy management strategies.
 
 ## Dataset Attribution
 This project uses the dataset **[Energy Consumption Dataset - Linear Regression](https://www.kaggle.com/datasets/govindaramsriram/energy-consumption-dataset-linear-regression)** by [GOVINDARAM SRIRAM](https://www.kaggle.com/govindaramsriram), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
